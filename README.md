@@ -1,1 +1,1 @@
-# Digital Media Course Materials
+# Data Science, R and Web Dev Course Materials
